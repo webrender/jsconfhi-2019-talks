@@ -98,7 +98,7 @@ Konstantin Raev • [@bestander_nz](https://mobile.twitter.com/bestander_nz)
 ## LIVE Podcast Panel discussion hosted by JS Party
 Kevin Ball of JS Party + Friends • [@jspartyfm](https://mobile.twitter.com/JSPartyFM)
 
-⛔️
+🎬 https://changelog.com/jsparty/63
 
 ## Navigating Unconscious Bias: a tool-based approach to reprogramming our biases
 Emily Kearney • [@eekearney](https://mobile.twitter.com/eekearney)
@@ -110,15 +110,15 @@ Trish Ang • [@feesh](https://mobile.twitter.com/feesh)
 
 🖼 https://www.slideshare.net/feesh/how-to-fail-at-accessibility-130923442
 
-## Where did all my servers go?
-Garth Henson • [@guahanweb](https://mobile.twitter.com/guahanweb)
+  ## Where did all my servers go?
+  Garth Henson • [@guahanweb](https://mobile.twitter.com/guahanweb)
 
-⛔️
+  ⛔️
 
-## GraphQL, the Domain Way
-Thais Correia [@isthisthais](https://mobile.twitter.com/isthisthais)
+  ## GraphQL, the Domain Way
+  Thais Correia [@isthisthais](https://mobile.twitter.com/isthisthais)
 
-⛔️
+  ⛔️
 
 ## Building up the Electron Project: Team and Community Engineering
 Jessica Lord • [@jllord](https://mobile.twitter.com/jllord)
