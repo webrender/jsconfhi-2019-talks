@@ -44,7 +44,7 @@ Shawn Wang • [@swyx](https://mobile.twitter.com/swyx)
 ## Adopting TypeScript at Scale
 Brie Bunge • [@briebunge](https://mobile.twitter.com/briebunge)
 
-⛔️
+🎬 https://www.youtube.com/watch?time_continue=1&v=P-J9Eg7hJwE&feature=emb_logo
 
 ## A Cartoon Quest: New Adventures for WebAssembly
 Lin Clark and Till Schneidereit • [@linclark](https://mobile.twitter.com/linclark) • [@tschneidereit](https://mobile.twitter.com/tschneidereit)
